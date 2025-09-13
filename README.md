@@ -42,7 +42,7 @@
 
 
 ## 📄 Publication
-김민규, 권효선, 유지민, 이호형, 최진우, 이인수. (2024-11-21). 주파수 해석과 CNN을 이용한 진동 센서에 잡음이 있는 유도전동기 시스템의 고장 진단. Proceedings of KIIT Conference, 제주.
+- 김민규, 권효선, 유지민, 이호형, 최진우, 이인수. (2024-11-21). 주파수 해석과 CNN을 이용한 진동 센서에 잡음이 있는 유도전동기 시스템의 고장 진단. Proceedings of KIIT Conference, 제주.
 [주파수 해석과 CNN을 이용한 진동 센서에 잡음이 있는 유도전동기 시스템의 고장 진단.pd.pdf](https://github.com/user-attachments/files/22311524/CNN.pd.pdf)
 
 
