@@ -32,10 +32,12 @@
 - Epoch = 20, Batch size = 16  
 
 **결과**
-- WGN 추가 (분산 0.01~0.1) → **100% 정확도**  
-- Bias 추가 (0.05 ~ 1.0) → **100% 정확도**
+- WGN 추가 (분산 0.01~0.1) → **100% 정확도**
 
 <img width="301" height="314" alt="image" src="https://github.com/user-attachments/assets/2425a2ed-0ef8-436e-9b4e-69f35e25fc6d" />
+
+- Bias 추가 (0.05 ~ 1.0) → **100% 정확도**
+
 <img width="299" height="287" alt="image" src="https://github.com/user-attachments/assets/155e7d26-1aa1-4f02-94fd-e99e5a43f1ab" />
 
 
